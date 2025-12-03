@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Spandana Nair  
-### 🚀 Data Science & AI/ML Engineer | Python Developer | Web Scraping Specialist | AI Honours Student
+### 🚀 Data Science & AI/ML Engineer | Python Developer | Web Scraping  | AI Honours Student
 
 I’m a final-year **B.Tech CSE student specializing in IoT, Cybersecurity and Blockchain Technology with Honours in Artificial Intelligence**, working on  
 **machine learning, deep learning, large-scale data scraping, and IoT-ML systems**.
