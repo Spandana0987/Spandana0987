@@ -21,7 +21,7 @@ and solve real-world problems using AI.
 
 ## 📌 Projects
 
-### 🔹 **=Scraper – Advanced E-Commerce Data Scraper** 
+### 🔹 **Scraper – Advanced E-Commerce Data Scraper** 
 Scrapy + Playwright scraper extracting product data (name, price, discount, rating, brand)  
 
 ### 🔹 **Real Estate Data Scraper** 
